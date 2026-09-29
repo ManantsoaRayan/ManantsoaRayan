@@ -1,4 +1,4 @@
-# Hi there, I'm [Rayan] 👋
+# Hi there, I'm Rayan 👋
 
 ### 🚀 Data Scientist & MLOps Engineer | Ex-Intern @ JIRAMA
 
